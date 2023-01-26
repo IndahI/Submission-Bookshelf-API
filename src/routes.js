@@ -3,8 +3,8 @@ const {
     getAllBooksHandler,
     getBookByIdHandler,
     editBookByIdHandler,
-    deleteBookByIdHandler
-} = require('./handler');
+    deleteBookByIdHandler,
+    } = require('./handler');
 
 const routes = [
     {
